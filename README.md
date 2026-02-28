@@ -10,6 +10,7 @@ A decentralized Rock-Paper-Scissors game built on **Creditcoin Testnet**. The ap
 - [Architecture](#architecture)
 - [Smart Contract](#smart-contract)
 - [Technologies Used](#technologies-used)
+- [Roadmap](#roadmap)
 
 ## Getting Started
 
@@ -110,6 +111,19 @@ For instructions on deploying the smart contract, see the [Deployment Guide](./c
 - **Smart Contracts**: Solidity 0.8.26
 - **Blockchain Network**: Creditcoin Testnet
 - **Package Manager**: Yarn
+
+## Roadmap
+
+Planned evolution of britz:
+
+| Phase | Focus | Description |
+|-------|--------|-------------|
+| **Current** | Testnet & core gameplay | Live on Creditcoin Testnet with create/join, three game modes, and history. |
+| **Short term** | Polish & trust | Mainnet readiness, contract verification on Blockscout, improved error handling and UX. |
+| **Mid term** | Engagement | Leaderboards and rankings, optional tournament mode (brackets), basic stats (win rate, streak). |
+| **Long term** | Scale & reach | Mobile-friendly or PWA, notifications for opponent moves, and exploration of L2/mainnet deployment. |
+
+Contributions and ideas are welcome—open an issue or PR to shape the roadmap.
 
 ## Requirements
 
